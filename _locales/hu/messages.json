@@ -44,7 +44,7 @@
     "description": ""
   },
   "enforceRestrictionsPrefLabel": {
-    "message": "Üzenetküldéskor erőltetése, napi és időbeli korlátozásokat",
+    "message": "A kézbesítés időpontjában tartsa be az időre és a napra vonatkozó korlátozásokat",
     "description": ""
   },
   "generalOptionsTitle": {
@@ -88,7 +88,7 @@
     "description": ""
   },
   "markReadPrefLabel": {
-    "message": "Megjelölés ütemezett tervezeteket olvasottként",
+    "message": "Ütemezett piszkozatok megjelölése olvasottként",
     "description": ""
   },
   "quickOptionsLabel1Label": {
@@ -152,7 +152,7 @@
     "description": "Displayed in place of send at time before user makes selections"
   },
   "sendAtLabel": {
-    "message": "Küldés időben",
+    "message": "Küldés időpontban",
     "description": ""
   },
   "sendBtwnLabel": {
@@ -212,7 +212,7 @@
     "description": ""
   },
   "sendUnsentMessagesPrefLabel": {
-    "message": "Indítsa el a nem küldött üzeneteket a Kimenő mappából",
+    "message": "Küldje el az el nem küldött üzeneteket a Kimenő mappából",
     "description": ""
   },
   "showColumnPrefLabel": {
@@ -236,11 +236,11 @@
     "description": ""
   },
   "DelayFunctionHelp": {
-    "message": "Egyszerűen késleltesse az üzenetet néhány perccel. Az első érv a késleltetési idő.",
+    "message": "Egyszerűen késleltesse az üzenetet néhány perccel. Az első érték a késleltetési idő.",
     "description": ""
   },
   "sendlater.prompt.sendlater.label": {
-    "message": "Postázandó üzenetek helyezés",
+    "message": "Kimenő üzenetekbe helyezés",
     "description": ""
   },
   "sendlater.prompt.sendlater.accesskey": {
@@ -248,7 +248,7 @@
     "description": ""
   },
   "sendlater.prompt.sendlater.tooltip": {
-    "message": "Ahelyett, hogy ütemezné a szállítást egy adott időre, helyezze át az üzenetet a Kimenő mappába, hogy legközelebb elküldje a nem küldött üzeneteket.",
+    "message": "Ahelyett, hogy egy adott időpontra ütemezné a kézbesítést, helyezze át az üzenetet a Kimenő mappába, hogy a következő alkalommal kézbesítse az el nem küldött üzeneteket.",
     "description": ""
   },
   "sendlater.prompt.sendnow.accesskey": {
@@ -264,7 +264,7 @@
     "description": ""
   },
   "sendlater.prompt.close.tooltip": {
-    "message": "Menjen vissza az üzenet szerkesztéséhez.",
+    "message": "Visszalépés az üzenet szerkesztéséhez.",
     "description": ""
   },
   "sendlater.prompt.title.label": {
@@ -284,15 +284,15 @@
     "description": ""
   },
   "sendlater.prompt.sendat.tooltip": {
-    "message": "Mentse az üzenetet a Piszkozatok mappába az önműködő küldéséhez a fenti időpontban.",
+    "message": "Mentse az üzenetet a Piszkozatok mappába a fenti időpontban történő automatikus küldéshez.",
     "description": ""
   },
   "sendlater.prompt.functionargs.label": {
-    "message": "Függvény érvek",
+    "message": "Függvény argumentumok",
     "description": ""
   },
   "sendlater.prompt.calculate.label": {
-    "message": "Kiszámít",
+    "message": "Kiszámítás",
     "description": ""
   },
   "sendlater.toolbar.sendlater.button.label": {
@@ -300,7 +300,7 @@
     "description": ""
   },
   "sendlater.toolbar.sendlater.button.tooltip": {
-    "message": "Aktiválja a Küldés később parancsot az üzenet ütemezéséhez, miután megadta a kívánt küldési időt a szövegmezőbe. Ez a gomb önmagában nem tesz semmit; hozzá kell adnia a szövegdobozot vagy a dátum/idő választókat (amelyek nem támogatottak az összes Thunderbird verzióban) az eszköztárhoz, hogy ez a gomb hasznos legyen.",
+    "message": "Aktiválja a Küldés később funkciót, ha a kívánt küldési időpont szövegdobozba való beírása után szeretne üzenetet ütemezni. Ez a gomb önmagában nem csinál semmit; hozzá kell adnia a szövegdobozt vagy a dátum/idő választókat (nem minden Thunderbird verzió támogatja) az eszköztárhoz, hogy ez a gomb használható legyen.",
     "description": ""
   },
   "sendlater.toolbar.textbox.emptytext": {
@@ -328,7 +328,7 @@
     "description": ""
   },
   "sendlater.prompt.cancelonreply.tooltip": {
-    "message": "Az ismétlődő üzenetekre adott válaszok figyelése. Ismétlődő üzenetet megszakítása és távolítsa el a Piszkozatok mappából, amikor válasz érkezik.",
+    "message": "Az ismétlődő üzeneteket korábbi példányaira adott válaszok figyelése. Ha válasz érkezik, ne küldjön belőle több üzenetet és távolítsa el a Piszkozatok mappából.",
     "description": ""
   },
   "sendlater3header.label": {
